@@ -16,5 +16,6 @@ Awesome Technion List of Open-Source Projects and Free Public Resources.
 ### Scans, Drives, and Home Assignments
 - **[Technion Scans](https://tscans.cf/)** *([source](https://github.com/michael-maltsev/technion-scans))* - Web application to upload Technion exam scans.
 - **[Technion Histograms](https://michael-maltsev.github.io/technion-histograms/)** *([source](https://michael-maltsev.github.io/technion-histograms/))* - Histograms of Technion courses.
-- **[CS Drive](https://technion-cs-drive.web.app/)** - A drive of many summaries, home assignments answers, and more!
+- **[CS Drive](https://technion-cs-drive.web.app/)** - A drive of many summaries, home assignments answers, and more! (Computer Science)
+- **[EE Drive](https://drive.google.com/drive/folders/16g08YIerCR2YX-NcgI8bzy7sRA3xIi7t)** - A drive of many summaries, home assignments answers, and more! (Electrical Engineering)
 - **[Introduction to Computer Science](https://github.com/talisraeli/technion-introduction-to-cs)** - Answers to home assignments and exams in Intro to CS course.
