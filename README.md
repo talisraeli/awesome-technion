@@ -7,9 +7,9 @@ Awesome Technion List of Open-Source Projects and Free Public Resources.
 
 ---
 
-### Prodactivity Tools
+### Productivity Tools
 - **[CheeseFork](https://cheesefork.cf/)** *([source](https://github.com/michael-maltsev/cheese-fork))* - A scheduling helper web application for Technion students.
-- **[Technion++](https://chromewebstore.google.com/detail/technion-plus-plus/pfhjnidbfndnjhpcpfecngcigdjebemk)** *([source](https://github.com/TheBooker66/Technion-Plus-Plus))* - A broswer extension that improves Technion's web-experience.
+- **[Technion++](https://chromewebstore.google.com/detail/technion-plus-plus/pfhjnidbfndnjhpcpfecngcigdjebemk)** *([source](https://github.com/TheBooker66/Technion-Plus-Plus))* - A browser extension that improves Technion's web-experience.
 - **[BananaBread](https://ikaelguez21.github.io/BananaBread/)** *([source](https://github.com/ikaelguez21/BananaBread))* - Better planner for your degree.
 - **[PlanIt](https://tech-planit.vercel.app/)** *([source](https://github.com/selfint/degree-planner))* - A tool for planning an entire Technion degree.
 
