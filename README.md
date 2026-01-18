@@ -12,7 +12,7 @@ Awesome Technion List of Open-Source Projects and Free Public Resources.
 - **[Technion++](https://chromewebstore.google.com/detail/technion-plus-plus/pfhjnidbfndnjhpcpfecngcigdjebemk)** *([source](https://github.com/TheBooker66/Technion-Plus-Plus))* - A browser extension that improves Technion's web-experience.
 - **[BananaBread](https://ikaelguez21.github.io/BananaBread/)** *([source](https://github.com/ikaelguez21/BananaBread))* - Better planner for your degree.
 - **[PlanIt](https://tech-planit.vercel.app/)** *([source](https://github.com/selfint/degree-planner))* - A tool for planning an entire Technion degree.
-- [StudySpot](https://studyspot.cc/) - Shows until when and which study spots are free to study at.
+- **[StudySpot](https://studyspot.cc/)** - Shows until when and which study spots are free to study at.
 
 ### Scans, Drives, and Home Assignments
 - **[Technion Scans](https://tscans.cf/)** *([source](https://github.com/michael-maltsev/technion-scans))* - Web application to upload Technion exam scans.
