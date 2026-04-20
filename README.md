@@ -19,3 +19,6 @@ Awesome Technion List of Open-Source Projects and Free Public Resources.
 - **[Technion Histograms](https://michael-maltsev.github.io/technion-histograms/)** *([source](https://michael-maltsev.github.io/technion-histograms/))* - Histograms of Technion courses.
 - **[CS Drive](https://technion-cs-drive.web.app/)** - A drive of many summaries, home assignments answers, and more! (Computer Science)
 - **[EE Drive](https://drive.google.com/drive/folders/16g08YIerCR2YX-NcgI8bzy7sRA3xIi7t)** - A drive of many summaries, home assignments answers, and more! (Electrical Engineering)
+
+## Informational Assets
+- **[Miluim Bot](https://www.mil-technion.com/)** - A bot that gives answers to questions about miluim in Technion.
