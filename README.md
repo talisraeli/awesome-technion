@@ -15,6 +15,7 @@ Awesome Technion List of Open-Source Projects and Free Public Resources.
 - **[BananaBread](https://ikaelguez21.github.io/BananaBread/)** *([source](https://github.com/ikaelguez21/BananaBread))* — Better planner for your degree.
 - **[PlanIt](https://tech-planit.vercel.app/)** *([source](https://github.com/selfint/degree-planner))* — A tool for planning an entire Technion degree.
 - **[StudySpot](https://studyspot.cc/)** — Shows until when and which study spots are free to study at.
+- **[Sogrim](https://www.sogrim.org/)** *([source](https://github.com/sogrim/technion-sogrim))* — a website that tells students exactly where they stand on the way to graduation.
 
 ### Scans and Home Assignments
 - **[Technion Scans](https://tscans.cf/)** *([source](https://github.com/michael-maltsev/technion-scans))* — Web application to upload Technion exam scans.
