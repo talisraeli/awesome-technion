@@ -16,6 +16,7 @@ Awesome Technion List of Open-Source Projects and Free Public Resources.
 - **[PlanIt](https://tech-planit.vercel.app/)** *([source](https://github.com/selfint/degree-planner))* — A tool for planning an entire Technion degree.
 - **[StudySpot](https://studyspot.cc/)** — Shows until when and which study spots are free to study at.
 - **[Sogrim](https://www.sogrim.org/)** *([source](https://github.com/sogrim/technion-sogrim))* — a website that tells students exactly where they stand on the way to graduation.
+- **[Semestero ME](https://semestero.me/Semestero-ME/)** *([source](https://github.com/adir2368/Semestero-ME))* — Multi-year Technion degree planner (2,055+ courses), interactive prerequisite flowchart, weighted GPA & What-If simulator, and live Moodle/CheeseFork sync (Web, Android APK, iOS, Windows).
 - **[Gemini Notebook RTL Fixer](https://github.com/itamar-sha/Gemini-Notebook-RTL-Fixer)** — Automatically fixes Hebrew RTL on Gemini Notebook (Chromium Extension).
 
 ### Scans and Home Assignments
